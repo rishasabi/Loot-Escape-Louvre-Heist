@@ -11,4 +11,5 @@ config_version=5
 [application]
 
 config/name="Loot&Escape"
+run/main_scene="uid://bcyhbjau557x4"
 config/features=PackedStringArray("4.5", "Forward Plus")

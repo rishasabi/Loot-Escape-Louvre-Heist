@@ -1,2 +1,4 @@
-res://_Levels/Level1.tscn
 res://Actors/Player/Player.tscn
+res://Actors/Player/Player.gd
+res://_Levels/Level1.tscn
+res://Objects/Door/Door.tscn
